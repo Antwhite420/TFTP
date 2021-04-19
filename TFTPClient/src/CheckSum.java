@@ -1,7 +1,6 @@
 import java.io.FileInputStream;
 import java.security.MessageDigest;
 
-
 public class CheckSum {
 	static String getChecksum(String fileName) {
 		StringBuffer sb = new StringBuffer("");

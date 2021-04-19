@@ -1,7 +1,6 @@
-
-
 import java.net.InetAddress;
 import java.net.UnknownHostException;
+
 class UseException extends Exception {
 	public UseException() {
 		super();
